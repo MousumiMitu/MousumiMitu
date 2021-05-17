@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mousumi Mitu</h1>
+<h1 align="center">Hi 👋, I'm Mousumi Akter</h1>
 <h3 align="center">I am a passionate front-end web developer with a productive idea of problem-solving, looking for opportunities to enhance the technical skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-website-70624.web.app/](https://my-portfolio-website-70624.web.app/)
